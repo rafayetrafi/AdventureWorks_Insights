@@ -1,4 +1,4 @@
-# AdventureWorks_Insights
+# Sales insights of the Company AdventureWork
 
 
 ![ADV_Insights_page-0001](https://github.com/rafayetrafi/AdventureWorks_Insights/assets/15082614/c46b6639-0d28-4740-90d7-326680f1b620)
